@@ -1,9 +1,9 @@
 Privacy Policy / Chính sách quyền riêng tư
 
-Extension: X AI AUTO REPLY – Smart Auto Interaction for X
-Author: PeterTran_CT
-Website: https://x.com/PetterTran_CT
-Last Updated: 2025
+- Extension: X AI AUTO REPLY – Smart Auto Interaction for X
+- Author: PeterTran_CT
+- Website: https://x.com/PetterTran_CT
+- Last Updated: 2025
 
 ---
 
